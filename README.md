@@ -2,6 +2,7 @@
 
 > github地址：https://github.com/CameloeAnthony/Learning-RecyclerView
 
+>欢迎关注我的微博：[Anthony](http://weibo.com/3288332304)
 
 最近在研究RecyclerView ，还是习惯整理一下开源项目放到github上 ，欢迎提交更新 ，fork，star。  排序纯属个人直觉。
 
