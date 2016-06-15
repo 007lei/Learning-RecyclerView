@@ -1,5 +1,7 @@
 >博客原地址：[Anthony的简书博客](http://www.jianshu.com/p/154891851fe2)
-   github地址：https://github.com/CameloeAnthony/Learning-RecyclerView
+
+> github地址：https://github.com/CameloeAnthony/Learning-RecyclerView
+
 
 最近在研究RecyclerView ，还是习惯整理一下开源项目放到github上 ，欢迎提交更新 ，fork，star。  排序纯属个人直觉。
 
